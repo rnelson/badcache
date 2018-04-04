@@ -1,0 +1,6 @@
+[package]
+name = "badcache"
+version = "0.1.0"
+authors = ["Ross Nelson <ross.nelson@gmail.com>"]
+
+[dependencies]
