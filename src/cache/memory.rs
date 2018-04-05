@@ -42,10 +42,5 @@ impl<T> MemoryCache<T> {
         } else {
             return self.data.get(&key);
         }
-
-//            match self.data.get(&key) {
-//                Some(&value) => value,
-//                None => None::<T>,
-//            }
     }
 }
