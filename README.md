@@ -4,7 +4,7 @@
 
 A demo project to learn a bit about [Rocket](https://rocket.rs), a web framework for Rust.
 
-This horrible, horrible piece of code mimics a super minimal [memcached](https://www.memcached.org) with a very limited set of operations and few features.It's really just to learn something. Please, never actually use this.
+This horrible piece of code mimics a super minimal [memcached](https://www.memcached.org) with a very limited set of operations and few features. It's really just to learn something. Please, never actually use this.
 
 ## Running
 
