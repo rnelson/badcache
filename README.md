@@ -19,9 +19,9 @@ The service is now running at [http://localhost:8000](http://localhost:8000). Al
 
 | Verb | Path               | Description                                     |
 |------|--------------------|-------------------------------------------------|
-| GET  | /add/_key_/_value_ | Adds the specified key-value pair               |
-| GET  | /remove/_key_      | Removes the key-value pair at the specified key |
-| GET  | /get/_key_         | Retrieves the value at _key_, or "null"         |
+| GET  | /add/`key`/`value` | Adds the specified key-value pair               |
+| GET  | /remove/`key`      | Removes the key-value pair at the specified key |
+| GET  | /get/`key`         | Retrieves the value at `key`, or "null"         |
 
 ## License
 
